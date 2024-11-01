@@ -1,0 +1,85 @@
+{
+    "name": "Mi PWA con Laravel y Bootstrap",
+    "short_name": "MiPWA",
+    "description": "Esta es una PWA creada con Laravel y Bootstrap.",
+    "start_url": "/home",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#ffffff",
+    "theme_color": "#007bff",
+    "icons": [
+      {
+        "src": "/icons/radiologia.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "/icons/avatar.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "/icons/esmalte.jpg",
+        "sizes": "600x600",
+        "type": "image/jpg"
+      },
+      {
+        "src": "/icons/gel.jpg",
+        "sizes": "600x600",
+        "type": "image/jpg"
+      },
+      {
+        "src": "/icons/logo.png",
+        "sizes": "500x500",
+        "type": "image/png"
+      },
+      {
+        "src": "/icons/logo1.png",
+        "sizes": "500x500",
+        "type": "image/png"
+      },
+      {
+        "src": "/icons/mascara.jpg",
+        "sizes": "600x600",
+        "type": "image/jpg"
+      },
+      {
+        "src": "/icons/portada.jpg",
+        "sizes": "1280x720",
+        "type": "image/jpg"
+      },
+      {
+        "src": "/icons/uña_p.jpg",
+        "sizes": "626x443",
+        "type": "image/jpg"
+      },
+      {
+        "src": "/icons/uña4.jpg",
+        "sizes": "5734x3823",
+        "type": "image/jpg"
+      },
+      {
+        "src": "/icons/uña5.jpg",
+        "sizes": "6067x3467",
+        "type": "image/jpg"
+      },
+      {
+        "src": "/icons/uña6.jpg",
+        "sizes": "6000x4000",
+        "type": "image/jpg"
+      }
+    ],
+    "screenshots": [
+      {
+        "src": "/screenshots/screenshot1.png",
+        "sizes": "1280x800",
+        "type": "image/png",
+        "form_factor": "wide"
+      },
+      {
+        "src": "/screenshots/screenshot2.png",
+        "sizes": "1280x800",
+        "type": "image/png"
+      }
+    ]
+  }
